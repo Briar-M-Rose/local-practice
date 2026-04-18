@@ -1,3 +1,19 @@
 {
-  "Playlists": {}
+  "Playlists": {
+    "Yellow": {
+      "type": "Concept",
+      "description": "text",
+      "color": "yellow"
+    },
+    "Blue": {
+      "type": "Element",
+      "description": "text",
+      "color": "blue"
+    },
+    "Persimmons and Cashmere": {
+      "type": "For Others",
+      "description": "text",
+      "color": "coral"
+    }
+  }
 }
