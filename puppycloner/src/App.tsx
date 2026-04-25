@@ -19,14 +19,14 @@ function App() {
   };
   const zoomie = () => {
     if (count >= 100 && multiplier == 2) {
-      setMultiplier(multiplier * 5);
+      setMultiplier(multiplier * 10);
       setCount(count - 100);
       setSrc(big__dog__hat__2);
     }
   };
   const power = () => {
-    if (count >= 1000 && multiplier == 10) {
-      setMultiplier(multiplier * 10);
+    if (count >= 1000 && multiplier == 20) {
+      setMultiplier(multiplier * 100);
       setCount(count - 1000);
       setSrc(big__dog__hat__3);
     }
